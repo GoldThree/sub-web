@@ -350,6 +350,7 @@ export default {
         backendOptions: [
           { value: "http://sub-backend.goldthree.top:25500/sub?" },
           { value: "http://sub-gc.goldthree.top:25500/sub?" },
+          { value: "https://subscribe-to-clash.onrender.com/link?" },
         ],
         remoteConfig: [
           {
