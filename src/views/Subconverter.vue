@@ -350,8 +350,7 @@ export default {
         backendOptions: [
           { value: "http://sub-backend.goldthree.top:25500/sub?" },
           { value: "http://sub-gc.goldthree.top:25500/sub?" },
-          { value: "https://sub-14lk.onrender.com:25500/sub?" },
-          { value: "https://sub-14lk.onrender.com:10000/sub?" },
+          { value: "http://sub.goldgod.ga/sub?" },
         ],
         remoteConfig: [
           {
