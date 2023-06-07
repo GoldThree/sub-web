@@ -351,6 +351,7 @@ export default {
           { value: "http://sub-backend.goldthree.top:25500/sub?" },
           { value: "http://sub-gc.goldthree.top:25500/sub?" },
           { value: "http://sub.goldgod.ga/sub?" },
+          { value: "p02--sub--zl2jnx4vclzq.code.run/sub?" },
         ],
         remoteConfig: [
           {
